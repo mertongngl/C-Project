@@ -1,0 +1,59 @@
+ERCÝYES ÜNÝVERSÝTESÝ BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ 
+VERÝ YAPILARI ALGORÝTMALAR DERSÝ ÝÇÝN PROJE 
+ÖÐRETÝM ÜYESÝ: Yrd. Doç. Dr. Fehim KÖYLÜ
+TESLÝMÝ SON TARÝHÝ: 12.12.2016
+
+
+KULLANILACAK VERÝ DOSYASI: VYA2016VERILER.CSV
+
+VERÝ DOSYASI HAKKINDA: Veri dosyasý içinde EVRAK, KELÝME, FREKANS olmak üzere 3 alan vardýr her bir kayýt için bir satýr ve bu alanlar arasýnda 1 virgül karakteri bulunur. 
+Kelime týrnak arasýnda yazýlmýþtýr. 
+
+
+
+GÖREV: Verilen dosya içindeki KELÝME alanýndaki deðere göre küçükten büyüðe doðru sýralama iþlemi yapýlacak ve sýralanmýþ kayýtlar aþaðýdaki her bir ödev için ayrý olmak üzere yeni bir dosyaya yazýlacaktýr. 
+
+
+
+1. PROBLEM: vya2016veriler.csv dosyasý içindeki kayýtlar okunarak yýðýn veri yapýsý içine alýnacak daha sonra sýralama iþlemi yapýlacaktýr. Kayýtlar yýðýn ile sýralandýktan sonra dosyaya yazýlacaktýr.
+
+2. PROBLEM: vya2016veriler.csv dosyasý içindeki kayýtlar okunarak kuyruk veri yapýsý içine alýnacak daha sonra sýralama iþlemi yapýlacaktýr. Kayýtlar kuyruk ile sýralandýktan sonra dosyaya yazýlacaktýr.  
+
+3. PROBLEM: vya2016veriler.csv dosyasý içindeki kayýtlar okunarak ikili aðaç veri yapýsý içine alýnacak daha sonra sýralama iþlemi yapýlacaktýr. Kayýtlar ikili aðaç ile sýralandýktan sonra dosyaya yazýlacaktýr. 
+
+
+
+AÇIKLAMA:Yýðýn (Stack), Kuyruk (Queue), Ýkili Aðaç (Binary Tree) veri yapýlarý için Struct veya Class  kullanýlabilir.
+
+Program kodlarý C veya C++ ile yazýlacaktýr. 
+
+
+
+TESLÝM EDÝLECEK ÖDEV ÇIKTILARI: 
+  
+
+
+1. Ýþlem raporu: tablo biçiminde 3 farklý sýralamayý alt alta gösterecek biçimde her biri için sýralama kaç iþlem sürdü ve ne kadar süre harcandý?
+Ayrýca algoritmalarýn çalýþmasý ve elde edilen sonuçlar hakkýnda 1 paragraf kiþisel yorum (max. 150 kelime).
+
+2. Sýralanmýþ veri dosyalarý.  
+
+a) sonuc.stack.XYZT.csv
+b) sonuc.queue.XYZT.csv 
+c) sonuc.binarytree.XYZT.csv
+3. 
+
+Yazýlan program dosyalarý h ve cpp dosyalarý içerecek 
+a)stack_XYZT.zip 
+b)queue_XYZT.zip 
+c) binarytree_XYZT.zip* dosyalarý
+
+* _XYZT her bir öðrenci için kendi numarasýnýn son dört hanesidir.
+
+
+* Sonuç dosyasý içinde veriler kaynak dosyasýnda olduðu gibi virgül ile ayrýlmýþ biçimde EVRAK,KELÝME,FREKANS sýrasýyla yazýlacaktýr.
+
+* Sonuç dosyasýnda kelime çevresinde týrnak iþareti yine bulunmalýdýr. 
+
+
+
