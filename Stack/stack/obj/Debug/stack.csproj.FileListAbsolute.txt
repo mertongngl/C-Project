@@ -1,0 +1,12 @@
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.exe.config
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.exe
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\bin\Debug\stack.pdb
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.exe
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.pdb
+c:\users\merto\documents\visual studio 2015\Projects\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache
+C:\Users\merto\Desktop\C# Project\stack\stack\bin\Debug\stack.exe.config
+C:\Users\merto\Desktop\C# Project\stack\stack\obj\Debug\stack.exe
+C:\Users\merto\Desktop\C# Project\stack\stack\obj\Debug\stack.pdb
+C:\Users\merto\Desktop\C# Project\stack\stack\bin\Debug\stack.exe
+C:\Users\merto\Desktop\C# Project\stack\stack\bin\Debug\stack.pdb
+C:\Users\merto\Desktop\C# Project\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache

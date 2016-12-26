@@ -1,0 +1,12 @@
+c:\users\merto\documents\visual studio 2015\Projects\bst\bst\bin\Debug\bst.exe.config
+C:\Users\merto\documents\visual studio 2015\Projects\bst\bst\bin\Debug\bst.exe
+C:\Users\merto\documents\visual studio 2015\Projects\bst\bst\bin\Debug\bst.pdb
+C:\Users\merto\documents\visual studio 2015\Projects\bst\bst\obj\Debug\bst.csprojResolveAssemblyReference.cache
+C:\Users\merto\documents\visual studio 2015\Projects\bst\bst\obj\Debug\bst.exe
+C:\Users\merto\documents\visual studio 2015\Projects\bst\bst\obj\Debug\bst.pdb
+C:\Users\merto\Desktop\C# Project\bst\bst\bin\Debug\bst.exe.config
+C:\Users\merto\Desktop\C# Project\bst\bst\obj\Debug\bst.exe
+C:\Users\merto\Desktop\C# Project\bst\bst\obj\Debug\bst.pdb
+C:\Users\merto\Desktop\C# Project\bst\bst\bin\Debug\bst.exe
+C:\Users\merto\Desktop\C# Project\bst\bst\bin\Debug\bst.pdb
+C:\Users\merto\Desktop\C# Project\bst\bst\obj\Debug\bst.csprojResolveAssemblyReference.cache

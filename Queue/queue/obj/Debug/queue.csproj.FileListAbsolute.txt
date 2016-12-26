@@ -1,0 +1,11 @@
+C:\Users\merto\documents\visual studio 2015\Projects\queue\queue\bin\Debug\queue.exe.config
+C:\Users\merto\documents\visual studio 2015\Projects\queue\queue\bin\Debug\queue.exe
+C:\Users\merto\documents\visual studio 2015\Projects\queue\queue\bin\Debug\queue.pdb
+C:\Users\merto\documents\visual studio 2015\Projects\queue\queue\obj\Debug\queue.exe
+C:\Users\merto\documents\visual studio 2015\Projects\queue\queue\obj\Debug\queue.pdb
+C:\Users\merto\Desktop\C# Project\queue\queue\bin\Debug\queue.exe.config
+C:\Users\merto\Desktop\C# Project\queue\queue\obj\Debug\queue.exe
+C:\Users\merto\Desktop\C# Project\queue\queue\obj\Debug\queue.pdb
+C:\Users\merto\Desktop\C# Project\queue\queue\bin\Debug\queue.exe
+C:\Users\merto\Desktop\C# Project\queue\queue\bin\Debug\queue.pdb
+C:\Users\merto\Desktop\C# Project\queue\queue\obj\Debug\queue.csprojResolveAssemblyReference.cache
